@@ -10,7 +10,7 @@ tags:
   - Behavioural_Analytics
 last_modified_at: 2016-06-22T15:11:19-04:00
 ---
-![](/assets/images/Generating%20HR%20Insights.jpg)
+![](/assets/images/generating_insights/Generating%20HR%20Insights.jpg)
 
 ## Generating HR Insights
 
@@ -46,16 +46,16 @@ The technology aspect can be straight forward and may require no investment in t
 
 <a href="https://www.continuum.io/downloads/" target="_blank">Anaconda, Python</a> - This version of Python is called Anaconda, not the snake. This tool may take a little bit of time to learn and there are many free tutorials to get you started. What this tool enables you to do is quickly validate the data and perform statistical analysis to create robust and reproducible insights. With a few lines of code you can call upon many different models using many different packages like <a href="https://www.scipy.org/" target="_blank">SciPy</a> to understand the importance of key variables to inform drivers. You can also go down the predictive model path as you start to develop data maturity.
 
-![](/assets/images/ghr_1.jpg)
+![](/assets/images/generating_insights/ghr_1.jpg)
 
 <a href="https://www.knime.org/" target="_blank">Knime</a> - This tool can be downloaded through the Anaconda tool. If you are starting in data science activities and want to move beyond descriptive analytics then give this a go. It is very easy to use and you can create models and data visualisations with drag and drop functionality.
 
-![](/assets/images/ghr_2.jpg)
+![](/assets/images/generating_insights/ghr_2.jpg)
 
 <a href="https://www.r-project.org/" target="_blank">R</a> - if you are new to programming , R may be a little easier to use and has simular functionality to Python. I recommend installing <a href="https://www.rstudio.com/home/" target="_blank">R Studio</a>, this provides an easy to use interface. If you are interested in visualisations then install ggplot within R.
 
-![](/assets/images/ghr_3.jpg)
+![](/assets/images/generating_insights/ghr_3.jpg)
 
 <a href="http://www.cs.waikato.ac.nz/ml/weka/" target="_blank">Weka</a> - It seems all good things come out of NZ. This is another great data visualisation and machine learning tool. This tool is in between Knime and R/Python in terms of ease of use and has been great for me to quickly validate distributions and isolate where data integrity issues exist before shaping the insight.
 
-![](/assets/images/ghr_4.jpg)
+![](/assets/images/generating_insights/ghr_4.jpg)

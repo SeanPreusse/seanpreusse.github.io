@@ -11,7 +11,7 @@ tags:
   - Data_Science_Tools
 last_modified_at: 2017-01-10T15:11:19-04:00
 ---
-![](/assets/images/Journey%20to%20People%20Analytics.jpg)
+![](/assets/images/journey_people_analytics/Journey%20to%20People%20Analytics.jpg)
 
 ## Journey to People Analytics
 
@@ -27,7 +27,7 @@ By shifting this into a research question you enable an analytical methodology t
 
 An example of such a process could be described below
 
-![](/assets/images/jpa_1.jpg)
+![](/assets/images/journey_people_analytics/jpa_1.jpg)
 
 **1. Focus on a business hypothesis** over a two-week sprint. In this sprint, you want to understand the question/problem that you are trying to solve. Ask basic questions i.e. is this a GenY or critical talent segment issue and complete early analysis to understand the value to the customer. Often the original question needs to be reframed a few times to really understand the business problem and allow for a successful sprint. Once you understand the problem, ask yourself if you have the necessary data.
 
@@ -56,6 +56,6 @@ Once you have the files in a raw format, you can then use free open sources tool
 **3. Once you have built 'an analytical record'** you can start to analyse this in greater detail using Python/R and other front-end tools such as [Qlik](http://www.qlik.com/en-au), [Tableau](http://www.tableau.com/) and [Jupyter Hub](http://github.com/jupyterhub/jupyterhub) dashboard 'thumbs up if you are using this'. This dataset would also be great to fit into a [decision tree](http://www.linkedin.com/pulse/hr-analytics-worth-investment-sean-preusse) where the outcome variable (being the business problem) tied to predictor variables (other relevant employee metrics/dimensions) can be used to understand important drivers.
 
 Before any insights are presented, data integrity is an important topic and will become a priority in this sprint if you are dealing with new data.
-![](/assets/images/jpa_2.jpg)
+![](/assets/images/journey_people_analytics/jpa_2.jpg)
 
 Before you start the sprint you should have identified the data that is required along with resources to help with any specific questions. Data sources should be locked in i.e. you should not be adding new sources within the sprint and if you come across any fantastic insights, these will likely require confirmation with the data owner/SME to help validate the accuracy of the data and findings early before presenting to senior executives.

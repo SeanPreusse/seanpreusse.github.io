@@ -10,7 +10,7 @@ tags:
   - Business_Case
 last_modified_at: 2016-08-12T15:11:19-04:00
 ---
-![](/assets/images/Is%20HR%20Analytics%20worth%20the%20investment.jpg)
+![](/assets/images/hr_analytics_worth/Is%20HR%20Analytics%20worth%20the%20investment.jpg)
 
 ## Is HR Analytics worth the investment?
 
@@ -22,7 +22,7 @@ The cost of doing nothing can be significant and in the millions and for many or
 
 Here is a quick business case to consider, that may help get the investment needed. You are an averaged sized organisation with five thousand employees and attrition is normal at 12%. Not all roles are replaced, let’s say 80% and given the below model the total cost of replacement is ~$80m. Factors for replacement cost will vary by organisation and may consider advertising, productivity, knowledge loss and time spent with key individuals involved with the process.
 
-![](/assets/images/hr_invest3.jpg)
+![](/assets/images/hr_analytics_worth/hr_invest3.jpg)
 
 What if we could use people analytics to understand the key drivers of employee turnover or perhaps develop a predictive model to understand high-risk employees to allow for early intervention? This analysis and early intervention may form a part of a sprint program at a cost of 20-60k and if we were able to prevent just 1% of unwanted/regretted turnover, the total benefit could be around $1m. Not a bad ROI, justifying the cost of the sprint program and implementation.
 
@@ -34,7 +34,7 @@ Below are some examples of the types of variables that may shed light into drive
 
 What is an analytical data model? This can be as simple as a range of key employee metrics by employee with an outcome column (yes they left or no they stayed). Key metrics can be built in excel with monthly snapshot data to build key employee events.
 
-![](/assets/images/hr_invest1.jpg)
+![](/assets/images/hr_analytics_worth/hr_invest1.jpg)
 
 **Analysis**
 
@@ -48,7 +48,7 @@ R makes decision trees really easy to complete but you do need sensible variable
 *library(party)
 plot(ctree(Attrition ~ ., data = data), main="Employee Attrition - Decision Tree")*
 
-![](/assets/images/hr_invest2.jpg)
+![](/assets/images/hr_analytics_worth/hr_invest2.jpg)
 
 
 As you start to get comfortable with the results of the modelling i.e. the variables make sense and you are starting to identify natural segments with high probability, why not compare these results to a predictive logistic regression model - A tutorial on this can be <a href="http://infoexcite.com/machine%20learning/2016/01/28/Predict_Employee_Turnover.html" target="_blank">found here</a>.

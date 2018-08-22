@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2018-06-27T15:11:19-04:00
 ---
 
-![](/assets/images/value_in_employee_life-cycle_analytics.jpg)
+![](/assets/images/life_cycle_analytics/value_in_employee_life-cycle_analytics.jpg)
 
 ## Creating value in employee life-cycle analytics
 

@@ -10,7 +10,7 @@ tags:
 last_modified_at: 2016-06-15T15:11:19-04:00
 ---
 
-![](/assets/images/Ensuring%20value%20in%20the%20recruitment%20and%20new%20hire%20process.jpg)
+![](/assets/images/value_in_recruitment/Ensuring%20value%20in%20the%20recruitment%20and%20new%20hire%20process.jpg)
 
 ## Ensuring value in the recruitment and new hire process
 
@@ -24,7 +24,7 @@ Significant improvement to this measure if not looked at from a wider perspectiv
 
 Here are my key recruitment metrics for measuring effectiveness of the recruitment pipeline:
 
-![](/assets/images/pipe_1.jpg)
+![](/assets/images/value_in_recruitment/pipe_1.jpg)
 
 **1. New Starter Attrition:** This metric focuses on new hire fit to the organisation and one way to measure this is to look at the number of permanent new hires within a 12 month window that have left the organisation. Ideally you would want to set a benchmark by role and review at the end of each year to understand significance.
 
@@ -32,7 +32,7 @@ To create greater impact on this measure, you could also look at total replaceme
 
 Not all new starter turnover can be avoided, however if employee fit is considered to be crucial, then there is a dollar benefit that can be achieved by looking at data that you should already have in new ways.
 
-![](/assets/images/pipe_2.jpg)
+![](/assets/images/value_in_recruitment/pipe_2.jpg)
 
 **2. Time to Productivity:** This measure is crucial for any business that wants to optimise productivity. Focusing on this metric as a measure of the recruitment pipeline’s performance is totally possible with the addition of a few key elements.
 
@@ -40,7 +40,7 @@ First look at implementing a job family framework. Identify if the role is reven
 
 To enhance this measure, you could look at machine learning to understand better ways to attract or review for potential performance before the candidate is offered the role (more to come on this in a later post).
 
-![](/assets/images/pipe_3.jpg)
+![](/assets/images/value_in_recruitment/pipe_3.jpg)
 
 **3. Time to onboard:** The amount of systems and emphasis on technology can be a nightmare for any manager or new starter that wants to make an early impression. This applies to any role but in particular specialist roles where computer work may be a core requirement.
 
@@ -48,7 +48,7 @@ Once the employee has started with the organisation, most managers keep track of
 
 Any HR system of value should have key activities automated via a workflow. Tracking the speed at which an employee has been fully on-boarded and is ready to start work is crucial to understanding where potential bottlenecks may exist so they can be speed up for the next new hire.
 
-![](/assets/images/pipe_4.jpg)
+![](/assets/images/value_in_recruitment/pipe_4.jpg)
 
 **4. First year HiPo Retention:** You may already look at ‘HiPo’ retention as a key organisational metric, that is the percentage of high performing staff that has left the organisation in the last 12 months. For this measure you could instead look at two years and either understand if there are retention issues or compare trend differences to this high performance new starter population.
 

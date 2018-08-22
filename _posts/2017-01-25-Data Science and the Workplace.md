@@ -11,7 +11,7 @@ tags:
   - Employee_Experience
 last_modified_at: 2017-01-25T15:11:19-04:00
 ---
-![](/assets/images/Data%20Science%20and%20the%20Workplace.jpg)
+![](/assets/images/data_science_workplace/Data%20Science%20and%20the%20Workplace.jpg)
 
 ## Data Science and the Workplace
 

@@ -1,5 +1,5 @@
 ---
-title: "Creating value in employee life-cycle analytics"
+title: "Predicting Employee Turnover"
 header:
 excerpt: "Predicting employee turnover and having a greater understanding of key drivers is important for any business. Implementing successful interventions based on early information can help you stay ahead of regretted turnover."
 categories:

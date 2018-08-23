@@ -3,11 +3,10 @@ title: "Generating HR Insights"
 header:
 excerpt: "At some point you may reach a bottle neck where you have squeezed the sponge dry. Your team will require a few different skills to optimise the impact and frequency of workforce insights."
 categories:
-  - Practical_Action_Plans
-  - Analytical_Pipeline
+  - Business-Case
 tags:
-  - Data_Science_Tools
-  - Behavioural_Analytics
+  - Data-Science-Tools
+  - Behavioural-Analytics
 last_modified_at: 2016-06-22T15:11:19-04:00
 ---
 ![](/assets/images/generating_insights/Generating%20HR%20Insights.jpg)

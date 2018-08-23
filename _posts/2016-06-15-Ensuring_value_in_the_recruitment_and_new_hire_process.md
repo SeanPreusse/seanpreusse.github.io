@@ -3,10 +3,10 @@ title: "Ensuring value in the recruitment and new hire process"
 header:
 excerpt: "Most of us value and measure different recruitment metrics, however many do not provide the right value when measuring the effectiveness of the recruitment pipeline."
 categories:
-  - Practical_Action_Plans
+  - Business-Case
 tags:
-  - Talent_Pipeline
-  - Talent_Metrics
+  - Talent-Pipeline
+  - Talent-Metrics
 last_modified_at: 2016-06-15T15:11:19-04:00
 ---
 

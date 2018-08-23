@@ -3,12 +3,11 @@ title: "Journey to People Analytics"
 header:
 excerpt: "Creating good insights with data is a team effort, it involves more than just an analyst crunching some data without any perspective."
 categories:
-  - Analytical_Pipeline
-  - Business_Case
+  - Business-Case
 tags:
-  - Behavioural_Metrics
-  - Transactional_Data
-  - Data_Science_Tools
+  - Behavioural-Metrics
+  - Transactional-Data
+  - Data_Science-Tools
 last_modified_at: 2017-01-10T15:11:19-04:00
 ---
 ![](/assets/images/journey_people_analytics/Journey%20to%20People%20Analytics.jpg)

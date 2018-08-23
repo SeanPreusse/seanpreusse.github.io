@@ -4,10 +4,9 @@ title: "Is HR Analytics worth the investment?
 header:
 excerpt: "Is HR Analytics worth the investment? Many find it difficult to find the necessary resourcing or funding start tackling big HR problems with data, is there a stepping stone that you can leverage to start the journey?"
 categories:
-  - Practical_Action_Plans
+  - Business-Case
 tags:
-  - Data_Science_Tools
-  - Business_Case
+  - Data-Science-Tools
 last_modified_at: 2016-08-12T15:11:19-04:00
 ---
 ![](/assets/images/hr_analytics_worth/Is%20HR%20Analytics%20worth%20the%20investment.jpg)

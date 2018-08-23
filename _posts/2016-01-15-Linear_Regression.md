@@ -3,10 +3,9 @@ title: "Learning Linear Regression"
 header:
 excerpt: "Linear regression is an approach for modelling the relationship between a dependant variable and one or more independent variables. This can be useful to show ROI of a program."
 categories:
-  - Machine Learning
-  - Data Science
+  - Machine-Learning
 tags:
-  - Learning
+  - Tutorial
 last_modified_at: 2016-01-15T15:11:19-04:00
 ---
 Linear regression is an approach for modelling the relationship between a dependant variable and one or more independent variables.

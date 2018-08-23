@@ -3,12 +3,11 @@ title: "Data Science and the Workplace"
 header:
 excerpt: "The analytics landscape is shifting fast. How we can leverage best practice in people analytics and stah ahead of the competition."
 categories:
-  - Future_Capability
-  - Artificial_Intelligence
+  - Machine-Learning
 tags:
-  - Customer_Service
+  - Customer-Service
   - Wellbeing
-  - Employee_Experience
+  - Employee-Experience
 last_modified_at: 2017-01-25T15:11:19-04:00
 ---
 ![](/assets/images/data_science_workplace/Data%20Science%20and%20the%20Workplace.jpg)

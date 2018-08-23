@@ -3,9 +3,9 @@ title: "Creating value in employee life-cycle analytics"
 header:
 excerpt: "People analytics is growing up as a disciplined function. How can we navigate through the noise and meet the increasing demand from the business."
 categories:
-  - Employee_Life-Cycle
-  - Diagnostic_Capability
+  - Diagnostic-Capability
 tags:
+  - Life-Cycle
   - Acquisition
   - Engagement
   - Diversity

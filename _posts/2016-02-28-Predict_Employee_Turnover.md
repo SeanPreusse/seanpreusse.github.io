@@ -3,10 +3,10 @@ title: "Predicting Employee Turnover"
 header:
 excerpt: "Predicting employee turnover and having a greater understanding of key drivers is important for any business. Implementing successful interventions based on early information can help you stay ahead of regretted turnover."
 categories:
-  - Data Science
-  - Machine Learning
+  - Machine-Learning
 tags:
-  - Employee Churn
+  - Employee-Churn
+  - Tutorial
 last_modified_at: 2016-01-28T15:11:19-04:00
 ---
 

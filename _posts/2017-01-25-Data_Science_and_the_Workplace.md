@@ -1,7 +1,7 @@
 ---
 title: "Data Science and the Workplace"
 header:
-excerpt: "The analytics landscape is shifting fast. How we can leverage best practice in people analytics and stah ahead of the competition."
+excerpt: "The analytics landscape is shifting fast. How we can leverage best practice in people analytics and stay ahead of the competition."
 categories:
   - Machine-Learning
 tags:
@@ -25,7 +25,7 @@ For the techie or AI enthusiast, to install Tensorflow and to build your own art
 ```python
 pip install tensorflow
 ```
-Here is a very quick [intro on](http://www.youtube.com/watch?v=TnUYcTuZJpM) the capability of this framework and for those that are not initiated I am warning you this is scary stuff. Here are a few tutorials to build your own AI tool: [Image Classification, Generate Music, Chatbot](http://www.youtube.com/watch?v=ZE7qWXX05T0).
+Here is a very quick [intro on](http://www.youtube.com/watch?v=TnUYcTuZJpM) the capability of this framework and for those that are not initiated, I am warning you this is scary stuff. Here are a few tutorials to build your own AI tool: [Image Classification, Generate Music, Chatbot](http://www.youtube.com/watch?v=ZE7qWXX05T0).
 
 As a data and HR professional, I will also expect to see many new changes within the workplace. For any consultancy or software company, this space represents an amazing opportunity and we have seen accelerated investment in many things like recruitment where companies are looking to reduce unconscious bias and replacement costs through predictive candidate scoring.
 
@@ -35,9 +35,9 @@ Here are some interesting applications that can be done right now if you have a 
 
 We need to be more data-driven in how we understand our employees. For most, we know what our attrition rates are both for high performer and new starter but we lack the right information to do something about this. This is usually difficult as we tend to look at traditional employee list data and make decisions based on a cost centre hierarchy and a biennial employee engagement survey.
 
-**Employee experience** is about many little things adding up and one important view is allowing employees to contribute in a meaningful way with the right trade-off to ensure it is also done in a cost effective way.
+**Employee experience** is about many little things adding up and one important view is allowing employees to contribute in a meaningful way with the right trade-off to ensure it is also done in a cost-effective way.
 
-**Recommendation** - Imagine freelancer for work. Start by building an internal capability framework that moves away from a position view to a skill view of the organisation. With this information, you can then feed current state from various data sources such as email, calendar or log data and with machine learning and natural language processing build a tool that can be used to leverage talent within the organisation to complete work. The outcome is a tool that can be built with existing organisational data using open source tools to create more engaging work and save on resourcing costs by levering internal capability, no brainer right?
+**Recommendation** - Imagine freelancer for work. Start by building an internal capability framework that moves away from a position view to a skill view of the organisation. With this information, you can then feed current state from various data sources such as email, calendar or log data and with machine learning and natural language processing build a tool that can be used to leverage talent within the organisation to complete work. An outcome is a tool that can be built with existing organisational data using open source tools to create more engaging work and save on resourcing costs by levering internal capability, no-brainer right?
 
 ## Other Applications
 
@@ -45,8 +45,8 @@ We need to be more data-driven in how we understand our employees. For most, we 
 
 **Employee wellbeing** is a top priority for most organisations and from what I have seen a largely untapped area of opportunity. This can be a sensitive area where intervention may uncover many issues that will be difficult to deal with however if you start with a small intervention group you can build predictive models to deal with core organisational issues in a productive way and see tangible improvements through regular reporting.
 
-The data for this is an outcome i.e. the employee has raised a stress incident yes or no, representing a classification problem. Using this outcome and by combining other data such as manager employee attrition, satisfaction scores, types of work performed, early warning data such as employee one-day absences, sentiment survey data and behavioural email meta data (if available), you should be able to create a reasonably accurate model to predict employee stress with an aim to improve employee wellbeing and allow for early intervention.
+The data for this is an outcome i.e. the employee has raised a stress incident yes or no, representing a classification problem. Using this outcome and by combining other data such as manager-employee attrition, satisfaction scores, types of work performed, early warning data such as employee one-day absences, sentiment survey data and behavioural email metadata (if available), you should be able to create a reasonably accurate model to predict employee stress with an aim to improve employee wellbeing and allow for early intervention.
 
-They key is to start with a small group by creating a high probability threshold, reinforce that this is not a witch hunt on managers and the aim is to address negative organisational behaviours and provide the right leadership education to managers to improve. As you start to see improvement the model will likely need to be refreshed and depending on how successful you can reduce the probability threshold to target more and different areas of the business.
+The key is to start with a small group by creating a high probability threshold, reinforce that this is not a witch hunt on managers and the aim is to address negative organisational behaviours and provide the right leadership education to managers to improve. As you start to see improvement the model will likely need to be refreshed and depending on how successful you can reduce the probability threshold to target more and different areas of the business.
 
 Finally, as you become more proficient in utilising data science to improve the workplace you can leverage the same techniques and datasets to target other problems such as why people leave the organisation, how can I reach the right candidates in the market, how can I tap into the right talent at interview, reduce selection biases to create greater diversity in the workplace., the possibilities are endless.

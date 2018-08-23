@@ -20,7 +20,7 @@ Creating good insights with data is a team effort, it involves more than just an
 
 With this example, if we were to focus on new hire attrition as the issue an analyst would first focus 'tier 1' data such as who has left and who is still here within one year. They would then apply basic dimensions such as business unit, gender, manager, salary band and job role if available. The deadline for such requests is usually within 1-2 days resulting in 90% data crunching and 10% insight. Unless you have a 'unicorn analyst', very rare, it would be very difficult to generate anything meaningful in such a short time.
 
-> <p align="center"> Educate your customers and try to transform important adhoc requests into research questions. This will allow you to really understand drivers and provide recommendations to the business problem. </p>
+> <p align="center"> Educate your customers and try to transform important ad-hoc requests into research questions. This will allow you to really understand drivers and provide recommendations to the business problem. </p>
 
 By shifting this into a research question you enable an analytical methodology that allows for business context, data reproducibility and basic to advance analytic prototypes that can be leveraged for use cases within the business.
 
@@ -35,13 +35,13 @@ and forwards dialogue with the business as the problem is broken down.
 
 * Tier 1: Basic and payroll data. This will contain basic employee information, employee flags such as termination date, hire date, last position move and full employee demographics such as age, tenure, leave in 1 month to 12 months, performance rating.
 * Tier 2: Modular HR data: Additional employee attributes sourced from Learning, Recruitment, Performance, Talent, Case Management and creation of employee metrics such as time since last promotion/lateral move, % last salary increase, employee attributes about the manager.
-* Tier 3: Transactional enterprise data. This could involve internal social media data allowing you to get a different perspective of the organisation, email meta data / meeting calendar data (outlook should have both in standard datasets), internal internet logs, business performance, remote access login, customer satisfaction.
-* Tier 4: Behavioural metrics. Combining the other tiers think about the types of behavioural indicators that you can create. These could include average tenure in jobs outside of company, using internet logs to flag employees who are at risk of leaving ‘they have clicked the jobs section of LinkedIn?’, monitoring competitors for a hard to fill role in job boards or role analysis by offer rescinded due to better offer to understand market shifts, flagging of leaders who have a poor retention track record aligned to industry behavior weighted by role composition.
+* Tier 3: Transactional enterprise data. This could involve internal social media data allowing you to get a different perspective of the organisation, email metadata/meeting calendar data (outlook should have both in standard datasets), internal internet logs, business performance, remote access login, customer satisfaction.
+* Tier 4: Behavioural metrics. Combining the other tiers think about the types of behavioural indicators that you can create. These could include average tenure in jobs outside of company, using internet logs to flag employees who are at risk of leaving ‘they have clicked on the jobs section of LinkedIn?’, monitoring competitors for a hard to fill role in job boards or role analysis by offer rescinded due to better offer to understand market shifts, flagging of leaders who have a poor retention track record aligned to industry behavior weighted by role composition.
 
 **2.** An average sized company with 3000-5000 employees with have hundreds of various software and tools that collect varied information about employees, customers and performance. This is complex and likely grow, representing a challenge for many organisations that want to integrate all of this data to generate insights.
 
 
-> <p align="center"> People analytics represents an interesting area of analaytics, as we are trying to understand behavior. This can be tricky as you will often need to combine many data sources to understand patterns.</p>
+> <p align="center"> People analytics represents an interesting area of analytics, as we are trying to understand behavior. This can be tricky as you will often need to combine many data sources to understand patterns.</p>
 
 
 For some, the **traditional approach** to sourcing data is not fit for HR's appetite to create insights and will often involve a costly project lasting 4-6 months to source data for one system and land this into an enterprise data warehouse.

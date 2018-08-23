@@ -50,6 +50,6 @@ plot(ctree(Attrition ~ ., data = data), main="Employee Attrition - Decision Tree
 ![](/assets/images/hr_analytics_worth/hr_invest2.jpg)
 
 
-As you start to get comfortable with the results of the modelling i.e. the variables make sense and you are starting to identify natural segments with high probability, why not compare these results to a predictive logistic regression model - A tutorial on this can be <a href="http://infoexcite.com/machine%20learning/2016/01/28/Predict_Employee_Turnover.html" target="_blank">found here</a>.
+As you start to get comfortable with the results of the modelling i.e. the variables make sense and you are starting to identify natural segments with high probability, why not compare these results to a predictive logistic regression model - A tutorial on this can be <a href="https://seanpreusse.com/machine-learning/Predict_Employee_Turnover/">found here</a>.
 
 With this type of model you will need to decide your level of appetite, if this is a new model you will want to start small and identify employees with a high probability of attrition and then start to understand the highest drivers via the coefficient and then segment to understand what role and line of business they exist in to start creating interventions to improve.

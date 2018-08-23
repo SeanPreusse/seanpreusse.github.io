@@ -61,9 +61,9 @@ Creating meaningful work is a challenge. This can be enhanced by understanding h
 
 Keeping track of engagement can be tricky as it usually requires high input from employees, therefore annual in the process. The reporting method is improving in frequency and accuracy with organisations moving to monthly pulse surveys and passive ways to gauge engagement. 
 
-Through greater reporting frequency, setup correctly, you can quickly act on the trends by viewing dimensions such as role, generation and time in the role allowing you to make tweaks to workforce strategies with the aim to improving engagement. These methods include;
+Through greater reporting frequency, set up correctly, you can quickly act on the trends by viewing dimensions such as role, generation and time in the role allowing you to make tweaks to workforce strategies with the aim to improving engagement. These methods include;
 
-* Pulse survey, random sampling: All surveys should be tracked to ensure pockets of employees are not over burdened. Focus on sampling around 10% of the population on a sentiment or pulse survey with key engagement questions as well as other questions relevant to the time. Compare spot month engagement score with a rolling average ~3 months to create insight across varied dimensions.
+* Pulse survey, a random sampling: All surveys should be tracked to ensure pockets of employees are not overburdened. Focus on sampling around 10% of the population on a sentiment or pulse survey with key engagement questions as well as other questions relevant to the time. Compare spot month engagement score with a rolling average ~3 months to create insight across varied dimensions.
 * Passive scoring: Start modelling the engagement score with variables that you think might be useful predictors of engagement. These could include workload though timesheet, email or business performance, absenteeism, leadership effectiveness, retention rates, team performance, etc. Once variables have been selected, model these to understand fit and predict an ongoing score.
 
 ## Employee Diversity
@@ -72,7 +72,7 @@ Improving diversity strategies may benefit from having access to centralised dat
 
 * Pay parity: This is a top concern for organisations as it does affect employer brand. There has also been recent negative publicity, i.e. <a href="https://www.usatoday.com/story/tech/2017/09/14/google-hit-gender-pay-gap-lawsuit-seeking-class-action-status/666944001/" target="_blank">recent</a> class action on pay gap.
 * Participation parity: Parity at this level may be tricky due to the industry the organisation operates within, types of roles required etc but it pays to ensure parity at different groups such as women in leadership, women in boards, indigenous targets, parity in community representation are met.
-* Promotion rate parity: How do female promotion rates compare to the female participation rate and how does it vary by role and tenure. Where employees have the same tenure and performance outlook, are there any material differences as this could indicate bias. This could be expaned to include a range of mobility metrics.
+* Promotion rate parity: How do female promotion rates compare to the female participation rate and how does it vary by role and tenure. Where employees have the same tenure and performance outlook, are there any material differences as this could indicate bias. This could be expanded to include a range of mobility metrics.
 
 ## Employee Separation
 

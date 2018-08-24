@@ -1,8 +1,9 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+      <a class="site-title" href="{{ '/' | absolute_url }}"><img src="/assets/images/header.jpg">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <!--<a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>-->
         <!--<a class="site-title" href="{{ '/' | absolute_url }}"><img src="/assets/images/header.jpg"></a>-->
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}

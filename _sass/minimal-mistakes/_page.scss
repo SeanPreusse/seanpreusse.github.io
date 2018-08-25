@@ -5,7 +5,7 @@
 #main {
   @include clearfix;
   margin-left: auto;
-  margin-top: 2em;
+  margin-top: 1em;
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
@@ -217,7 +217,7 @@
    ========================================================================== */
 
 .page__share {
-  margin-top: 2em;
+  margin-top: 1em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
@@ -246,7 +246,7 @@
    ========================================================================== */
 
 .page__meta {
-  margin-top: 2em;
+  margin-top: 1em;
   color: $muted-text-color;
   font-family: $sans-serif;
   font-size: $type-size-6;
@@ -313,7 +313,7 @@
   }
 
   + .taxonomy__section {
-    margin-top: 2em;
+    margin-top: 1em;
   }
 }
 
@@ -468,7 +468,7 @@
 .page__related {
   @include clearfix();
   float: left;
-  margin-top: 2em;
+  margin-top: 1em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
 

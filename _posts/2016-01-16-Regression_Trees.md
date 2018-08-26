@@ -1,14 +1,4 @@
----
-title: "Learning Regression Trees"
-header:
-excerpt: "Regresion tree's is a great way to build predictive models that have a visual representation model output"
-categories:
-  - Machine-Learning
-tags:
-  - Tutorial
-last_modified_at: 2016-01-16T15:11:19-04:00
----
-Regression trees through the ‘party’ library in R is a great way to build a visual predictive model. The underlying ‘party’ package for R allows for an easy visual representation for the model output.
+Regression trees through the ‘party’ library in R is a great way to build a visual predictive model. The underlying ‘party’ package for R allows for an easy visual representation of the model output.
 
 The example used in this tutorial is the prediction of a seed type from the seeds dataset; kernels belonging to three different varieties of wheat.
 

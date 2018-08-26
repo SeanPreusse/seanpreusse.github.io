@@ -1,16 +1,16 @@
 ---
 title: "Learning Linear Regression"
 header:
-excerpt: "Linear regression is an approach for modelling the relationship between a dependant variable and one or more independent variables. This can be useful to show ROI of a program."
+excerpt: "Linear regression is an approach for modelling the relationship between a dependent variable and one or more independent variables. This can be useful to show ROI of a program."
 categories:
   - Machine-Learning
 tags:
   - Tutorial
 last_modified_at: 2016-01-15T15:11:19-04:00
 ---
-Linear regression is an approach for modelling the relationship between a dependant variable and one or more independent variables.
+Linear regression is an approach for modelling the relationship between a dependent variable and one or more independent variables.
 
-This type of analysis is great to show the ROI of a program, typically when the dependant variable is related to revenue or cost benefit. You can also use linear regression on time to predict when engagement or high stress may occur.
+This type of analysis is useful at showing the ROI of a program, typically when the dependent variable is related to revenue or cost benefit. You can also use linear regression on time to predict when engagement or high stress may occur.
 
 ![](/assets/images/linear_regression/linear_regression.png)
 
@@ -36,7 +36,7 @@ autos$name <- NULL
 
 ### Creating the Model
 
-Creating a training set and hold out set 'test' is an important part to building a predictive model. This is an easy task for R, only a few lines of code required.
+Creating a training set and hold out set 'test' is an integral part of building a predictive model. This is an easy task for R, only a few lines of code required.
 
 {% highlight ruby %}
 train_size <- round(nrow(autos) * 0.7)

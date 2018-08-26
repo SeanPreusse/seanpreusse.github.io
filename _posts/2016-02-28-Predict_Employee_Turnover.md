@@ -10,9 +10,9 @@ tags:
 last_modified_at: 2016-01-28T15:11:19-04:00
 ---
 
-Predicting employee turnover and having a greater understanding of key drivers is starting to emerge in a few organisations. Some people may have a gut feeling when an employee is on the verge of leaving but what if you could create a dataset with many different behaviour identifiers to predict turnover early so that you could intervene? Here we will use Logistic regression to complete this analytical task.
+Predicting employee turnover and having a greater understanding of key drivers are starting to emerge in a few organisations. Some people may have a gut feeling when an employee is on the verge of leaving but what if you could create a dataset with many different behaviour identifiers to predict turnover early so that you could intervene? Here we will use Logistic regression to complete this analytical task.
 
-Logistic regression has a place for many practical business problems. My experience with this type of modelling is in the prediction of a binary outcome e.g. predicting employee turnover (yes/no), employees stress, employee performance and employee sentiment.
+Logistic regression has a place for many practical business problems. My experience with this type of modelling is in the prediction of a binary outcome, e.g. predicting employee turnover (yes/no), employees stress, employee performance and employee sentiment.
 
 The example here will look at predicting employee turnover. The accuracy of this model is 86% and can be improved. Data used is supplied from IBM Watson, workforce attrition dataset.
 
@@ -37,7 +37,7 @@ data$attrition <- NULL
 
 ### Cleaning the data
 
-We only want to select key variables that make sense i.e. job, environment and relationship satisfaction as well as performance rating.
+We only want to select key variables that make sense, i.e. job, environment and relationship satisfaction as well as performance rating.
 
 {% highlight ruby %}
 drop <- c("education", "environment_satisfaction", "job_involvement","job_satisfaction", "performance_rating","relationship_satisfaction")
@@ -296,6 +296,6 @@ plot(proc.perf, colorize=T,lwd=3, main="ROC Curve - True Positive Rate")
 abline(a=0, b= 1)
 {% endhighlight %}
 
-For a cut-off of .4 (we only want to target the highest probability) we get an accuracy of 85%. The coloured line represents much better than average 'the black line'
+For a cut-off of .4 (we only want to target the highest probability) we get an accuracy of 85%. The coloured line represents much better than average 'the black line.'
 
 ![](/assets/images/logistic_regression/unnamed-chunk-10-1.png)

@@ -1,13 +1,16 @@
-﻿,Category,,,,Tags,,,
-2016-01-05-LearnR,Data-Science-Tools,,,,Tutorial,,,
-2016-01-15-Linear_Regression,Machine-Learning,,,,Tutorial,,,
-2016-01-16-Regression_Trees,Machine-Learning,,,,Tutorial,,,
-2016-01-22-K_Means,Machine-Learning,,,,Tutorial,,,
-2016-02-28-Predict_Employee_Turnover,Machine-Learning,,,,Employee-Churn,,,
-2016-06-15-Ensuring_value_in_the_recruitment_and_new_hire_process,Business-Case,,,,Talent-Pipeline,Talent-Metrics,,
-2016-06-22-Generating_HR_Insights,Business-Case,,,,Data-Science-Tools,Behavioural-Analytics,,
-2016-08-12-Is_HR_Analytics_worth_the_investment,Business-Case,,,,Data-Science-Tools,,,
-2017-01-10-Journey_to_People_Analytics,Business-Case,,,,Behavioural-Metrics,Transactional-Data,Data-Science-Tools,
-2017-01-25-Data_Science_and_the_Workplace,Machine-Learning,,,,Customer-Service,Wellbeing,Employee-Experience,
-2018-06-26-Creating_value_in_employee_life-cycle_analytics,Diagnostic-Capability,,,,Acquisition,Engagement,Diversity,Churn
-2018-08-24-Creating_value_for_executives,Business-Case,,,,Changing-Landscape,Future-Growth,,
+	Category				Tags			
+2016-01-05-LearnR	Data-Science-Tools				Tutorial			
+2016-01-15-Linear_Regression	Machine-Learning				Tutorial			
+2016-01-16-Regression_Trees	Machine-Learning				Tutorial			
+2016-01-22-K_Means	Machine-Learning				Tutorial			
+2016-02-28-Predict_Employee_Turnover	Machine-Learning				Employee-Churn			
+2016-04-10-Impress_your_CEO_with_these_strategic_talent_metrics	Business-Case				Talent-Metrics	Acquisition		
+2016-06-15-Ensuring_value_in_the_recruitment_and_new_hire_process	Business-Case				Talent-Pipeline	Talent-Metrics		
+2016-06-22-Generating_HR_Insights	Business-Case				Data-Science-Tools	Behavioural-Analytics		
+2016-07-02-Addressing_Gender_Imbalances	Culture				Bias	Behavioural-Metrics	Engagement	
+2016-08-12-Is_HR_Analytics_worth_the_investment	Business-Case				Data-Science-Tools			
+2017-01-10-Journey_to_People_Analytics	Business-Case				Behavioural-Metrics	Transactional-Data	Data-Science-Tools	
+2017-01-25-Data_Science_and_the_Workplace	Machine-Learning				Customer-Service	Wellbeing	Employee-Experience	
+2018-06-26-Creating_value_in_employee_life-cycle_analytics	Diagnostic-Capability				Acquisition	Engagement	Diversity	Churn
+2018-08-24-Creating_value_for_executives	Business-Case				Changing-Landscape	Future-Growth		
+2018-08-25-The_high_cost_of_employee_turnover	Business-Case				Churn	Behavioural-Metrics		

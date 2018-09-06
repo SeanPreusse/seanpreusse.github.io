@@ -24,7 +24,7 @@ As organisations being to look towards automation, the skills required for the w
 
 **Voluntary turnover is costing many organisations millions of dollars**
 
-![](/assets/images/high_cost_of_turnover/high_cost_turnover_table.jpg)
+![](/assets/images/high_cost_of_turnover/high_cost_turnover_table.JPG)
 
 Above the surface, some of these costs will be apparent and include direct costs such as recruitment, agency, training.
 
@@ -46,7 +46,7 @@ Getting a handle on existing high-level numbers should be easy. Start with total
 
 Replacement cost can be calculated by role or salary band. For either, you will need to map percentage productivity over a set period covering the whole period or in quarterly blocks. The simpler the model is, the easier it will be to explain. With this information, calculate the inverse 'lost productivity' and multiply this by the salary for the period.
 
-![](/assets/images/high_cost_of_turnover/vol_attr_high.jpg)
+![](/assets/images/high_cost_of_turnover/vol_attr_high.JPG)
 
 **Navigating to real opportunity**
 
@@ -56,11 +56,11 @@ To assist with this targeted analysis, you may want to measure attrition rates b
 
 Red circle roles that you think are appropriate, and you may be able to identify the 1% opportunity improvement that could be used to fund initiatives or further analysis.
 
-![](/assets/images/high_cost_of_turnover/vol_attr_detail.jpg)
+![](/assets/images/high_cost_of_turnover/vol_attr_detail.JPG)
 
 Another area of analysis could include capability area. This can be a little more difficult to understand as employees can have multiple capability's but may act as an important lens to build bench strength on for the short-term and allow for more targeted initiatives to drive a reduction.
 
-![](/assets/images/high_cost_of_turnover/vol_attr_detail_cap.jpg)
+![](/assets/images/high_cost_of_turnover/vol_attr_detail_cap.JPG)
 
 **Overall;**
 

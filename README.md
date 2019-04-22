@@ -1,3 +1,3 @@
-# Sean Preusse - People Analytics Blog
+# Sean Preusse - Data Driven Decisions
 
 Helping organisations add value with data science projects.
